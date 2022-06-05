@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747291440627",
+    "firebase_url": "https://signlyapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "signlyapp",
+    "storage_bucket": "signlyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747291440627:android:fceb8fe4cac6af8f034e86",
+        "android_client_info": {
+          "package_name": "com.example.signly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747291440627-fmqm22rc59pa2b7f3e0gae18nbrsslm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrU84W9HbhvhwxMZzs4mRQPV3y4E557Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747291440627-fmqm22rc59pa2b7f3e0gae18nbrsslm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
